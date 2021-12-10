@@ -8,4 +8,4 @@ Werkzeug==2.0.2
 gunicorn
 pillow
 numpy
-opencv-python==4.5.4.58
+opencv-python
